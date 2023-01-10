@@ -521,12 +521,6 @@ copied. Again, this is a predecrement.
 **The stack pointer in ARM V8 can only be manipulated in multiples of
 16.**
 
-**The stack pointer in ARM V8 can only be manipulated in multiples of
-16.**
-
-**The stack pointer in ARM V8 can only be manipulated in multiples of
-16.**
-
 In a higher level language `Line 3` would look like this:
 
 ```c++
@@ -537,12 +531,6 @@ In a higher level language `Line 3` would look like this:
 That is, subtract 8 from the stack pointer and copy `x21` to that
 location. Then, subtract 8 from the stack pointer and copy `x30` to that
 location.
-
-**The stack pointer in ARM V8 can only be manipulated in multiples of
-16.**
-
-**The stack pointer in ARM V8 can only be manipulated in multiples of
-16.**
 
 **The stack pointer in ARM V8 can only be manipulated in multiples of
 16.**
